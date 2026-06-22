@@ -6,7 +6,10 @@ I started learning Python on **15 June 2026**, and shortly after, I realized tha
 
 ## About Me
 
-My name is **Krishnanshu Kashyap**, and I am a 19-year-old tech enthusiast with a passion for learning and building things. When I'm not coding, you'll probably find me gaming, exploring new technology, or studying Japanese.
+My name is **Krishnanshu Kashyap**
+I am a 19-year-old tech enthusiast with a passion for learning and building. 
+I am Learning Python right now and will pursue AI field skills.
+When I'm not coding, you'll probably find me gaming, exploring new technology, or studying Japanese.
 
 I'm also a huge anime fan, so you'll occasionally find references, inspiration, or project ideas influenced by the series I enjoy.
 
