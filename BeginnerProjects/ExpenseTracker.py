@@ -2,6 +2,7 @@
 # Features: Add expenses, View expenses, Calculate total spending, Find highest expense category
 # Concepts: Nested dictionaries, Loops, Functions
 # Challenge: Generate monthly reports
+# New Feature: Generate monthly reports for expenses, allowing users to see their spending trends over time.
 
 # Defining Variables
 expenses = {}
@@ -38,6 +39,18 @@ def FindHighestExpenseCategory():
     print(f"Highest expense category: {highest_category} with amount {expenses[highest_category]}")
     return highest_category
 
+# This function generates a monthly report for the expenses.
+def GenerateMonthlyReport():
+    if not expenses:
+        print("No expenses recorded yet.")
+        return
+
+    print("\nMonthly Expense Report:")
+    print("-" * 30)
+    for category, amount in expenses.items():
+        print(f"{category}: {amount}")
+    CalculateTotalSpending()
+
 # Main Program Loop
 while True:
     print("\nExpense Tracker")
@@ -45,7 +58,8 @@ while True:
     print("2. View Expenses")
     print("3. Calculate Total Spending")
     print("4. Find Highest Expense Category")
-    print("5. Exit")
+    print("5. Generate Monthly Report")
+    print("6. Exit")
     choice = input("Enter your choice: ")
 
     if choice == "1":
@@ -63,6 +77,9 @@ while True:
         FindHighestExpenseCategory()
 
     elif choice == "5":
+        GenerateMonthlyReport()
+
+    elif choice == "6":
         print("Exiting Expense Tracker. Goodbye!")
         break
 
