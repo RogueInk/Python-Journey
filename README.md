@@ -41,5 +41,5 @@ Happy Coding! 🚀
 1. Expense Tracker that uses Concepts: Nested dictionaries, Loops, Functions more info is commented on the project py file
 2. LMS a.k.a Library Management System that uses Concepts: Lists, Dictionaries, Loops, Functions 
 3. ResultAnalyzer , uses Concepts: Lists, Sorting, Functions, Dictionaries more info is commented on the project py file
-4. QuizApplication, uses Concepts: Lists, Sorting, Functions, Dictionaries, Modules like Time and Random library more info is commented on the project py file
+4. QuizApplication, uses Concepts: Lists, Sorting, Functions, Dictionaries, Libraries like Time and Random library more info is commented on the project py file
 
