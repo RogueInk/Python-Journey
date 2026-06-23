@@ -3,6 +3,7 @@
 # Concepts: Lists, Dictionaries, Functions
 # Challenge: Randomize questions
 
+# Defining Variables and Importing Libraries
 import random
 import time
 
