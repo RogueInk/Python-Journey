@@ -38,8 +38,8 @@ Happy Coding! 🚀
 =================================================================================================
 ## About my Beginner Projects
 
-1. Expense Tracker that uses Concepts: Nested dictionaries, Loops, Functions more info is commented on the project py file
+1. Expense Tracker that uses Concepts: Nested dictionaries, Loops, Functions more info is commented in the project py file
 2. LMS a.k.a Library Management System that uses Concepts: Lists, Dictionaries, Loops, Functions 
-3. ResultAnalyzer , uses Concepts: Lists, Sorting, Functions, Dictionaries more info is commented on the project py file
-4. QuizApplication, uses Concepts: Lists, Sorting, Functions, Dictionaries, Libraries like Time and Random library more info is commented on the project py file
-
+3. ResultAnalyzer , uses Concepts: Lists, Sorting, Functions, Dictionaries more info is commented in the project py file
+4. QuizApplication, uses Concepts: Lists, Sorting, Functions, Dictionaries, Libraries like Time and Random library more info is commented in the project py file
+5. Mini Banking System, uses Concepts: Functions, Dictionaries, Validation, more info is commented in the project file
