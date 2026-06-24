@@ -35,7 +35,6 @@ Every small interaction helps make this journey a little more enjoyable and moti
 
 Happy Coding! 🚀
 
-=================================================================================================
 ## About my Beginner Projects
 
 1. Expense Tracker that uses Concepts: Nested dictionaries, Loops, Functions more info is commented in the project py file
@@ -43,3 +42,11 @@ Happy Coding! 🚀
 3. ResultAnalyzer , uses Concepts: Lists, Sorting, Functions, Dictionaries more info is commented in the project py file
 4. QuizApplication, uses Concepts: Lists, Sorting, Functions, Dictionaries, Libraries like Time and Random library more info is commented in the project py file
 5. Mini Banking System, uses Concepts: Functions, Dictionaries, Validation, more info is commented in the project file
+
+## Just my Daily logs or my diary
+
+I thought i should be recording my daily logs in case i don't do a project someday due to some reason cuz i don't wanna break my commit streak yk and also incase i ain't doing project cause learning something new for next project.
+
+* Log Recording starting from 24/06/2026
+* Today on 24/6/26
+- i didn't have enough time becuz i woke up really late and had to do editing and stuff so i thought i should start learning FILE HANDLING in python for my next project 
