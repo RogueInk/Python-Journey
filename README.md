@@ -49,4 +49,5 @@ I thought i should be recording my daily logs in case i don't do a project somed
 
 * Log Recording starting from 24/06/2026
 * Today on 24/6/26
-- i didn't have enough time becuz I woke up really late and had to do editing and stuff so i thought i should start learning FILE HANDLING in python for my next project 
+- I didn't have enough time becuz I woke up really late and had to do editing and stuff so i thought i should start learning FILE HANDLING in python for my next project 
+- Well today 25/6/26 i started TextAnalyzer, tbh i m really weak so i had issues alot of to solve the problem i did alot of type error and wrong logic , forgetting to return and all had to take ai help that is kinda sad but had to do it cuz i m weak , now i will try to practice more.
