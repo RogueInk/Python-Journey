@@ -42,6 +42,8 @@ Happy Coding! 🚀
 3. ResultAnalyzer , uses Concepts: Lists, Sorting, Functions, Dictionaries more info is commented in the project py file
 4. QuizApplication, uses Concepts: Lists, Sorting, Functions, Dictionaries, Libraries like Time and Random library more info is commented in the project py file
 5. Mini Banking System, uses Concepts: Functions, Dictionaries, Validation, more info is commented in the project file
+6. Text Analyzer, uses Concepts: Strings, Dictionaries, Sorting, more info is commented in project file
+7. Final Beginner project that is a File Handling project for organizing file
 
 ## Just my Daily logs or my diary
 
@@ -51,3 +53,5 @@ I thought i should be recording my daily logs in case i don't do a project somed
 * Today on 24/6/26
 - I didn't have enough time becuz I woke up really late and had to do editing and stuff so i thought i should start learning FILE HANDLING in python for my next project 
 - Well today 25/6/26 i started TextAnalyzer, tbh i m really weak so i had issues alot of to solve the problem i did alot of type error and wrong logic , forgetting to return and all had to take ai help that is kinda sad but had to do it cuz i m weak , now i will try to practice more.
+- Went on a Trip to manali and hampta pass trek from 26 june to 3rd July so just came back and now working
+- Added my file handling project , its kinda sad how i am so reliant on AI , do help me with some tips in my discord DMs, id: rogueink
