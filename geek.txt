@@ -1,2 +1,0 @@
-Test to write in a file
-This is for Test but who know's it might fail!
