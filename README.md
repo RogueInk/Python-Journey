@@ -128,7 +128,7 @@ Although I still feel a little too reliant on AI while solving problems, I'm slo
 
 # 🤝 Connect With Me
 
-📷 **Instagram:** **[@rogue.kk](https://instagram.com/rogue.kk)**
+📷 **Instagram:** **[@rg_krishna67](https://instagram.com/rogue.kk)**
 
 💬 **Discord:** `rogueink`
 
