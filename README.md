@@ -128,11 +128,11 @@ Although I still feel a little too reliant on AI while solving problems, I'm slo
 
 # 🤝 Connect With Me
 
-📷 **Instagram:** **[@rg_krishna67](https://instagram.com/rogue.kk)**
+📷 **Instagram:** **[@rg_krishna67](https://instagram.com/rg_krishna67)**
 
 💬 **Discord:** `rogueink`
 
-If you have suggestions, spot a mistake, or simply want to say hello, feel free to reach out.
+If you have any suggestions, spot a mistake, or simply want to say hello, feel free to reach out.
 
 Constructive feedback is always appreciated.
 
